@@ -18,4 +18,4 @@ I focus on backend engineering, distributed systems, and AI-powered applications
 
 At NYU's VIP SCENT team, I help develop a robotics experimentation system and integrate IoT devices.
 
-[LinkedIn](https://www.linkedin.com/in/xingjian-liu04/) · [Email](mailto:xl6081@nyu.edu)
+[Email](mailto:xl6081@nyu.edu)
